@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hey, I'm Dzaky Fahrezy
 
-<!--
-**dzakyfahrezy1013/dzakyfahrezy1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Project Manager | Software Engineer | IT Enthusiast
 
-Here are some ideas to get you started:
+I build, manage, and improve **software systems that solve real-world problems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in **Informatics Engineering**, I work across both the **technical and management side of technology** — from designing and developing software to coordinating teams and delivering projects.
+
+---
+
+## 💻 What I Do
+
+* 🏗️ **ERP & Business Systems**
+* 💻 **Software Development**
+* ⚙️ **System & Software Infrastructure**
+* 🔗 **API & System Integration**
+* 👥 **Project & Team Management**
+* 🤖 **AI & Automation**
+* 🗄️ **Database & Backend Systems**
+* 🚀 **Deployment & Troubleshooting**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend**
+`JavaScript` `Node.js` `Python` `PHP`
+
+**Frontend**
+`HTML` `CSS` `JavaScript` `EJS`
+
+**Database**
+`MongoDB` `MySQL`
+
+**Infrastructure & Tools**
+`Git` `GitHub` `Linux` `Cloud` `REST API`
+
+**Currently Exploring**
+`AI Automation` `AI Agents` `Web3` `Algorithmic Trading`
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm particularly interested in building systems where **software, automation, and AI** can work together to make businesses more efficient.
+
+> **Manual → Digital → Automated → Autonomous**
+
+I enjoy turning ideas and business processes into **working, scalable, and maintainable technology**.
+
+---
+
+## 📌 Let's Connect
+
+I'm always open to discussing **technology, software development, AI, automation, and interesting projects**.
+
+⭐ Feel free to explore my repositories and see what I'm building.
