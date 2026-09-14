@@ -4,54 +4,84 @@
 
 I build, manage, and improve **software systems that solve real-world problems**.
 
-With a background in **Informatics Engineering**, I work across both the **technical and management side of technology** — from designing and developing software to coordinating teams and delivering projects.
+With a background in **Informatics Engineering**, I work across both the **technical and management side of technology** — from software development and ERP systems to infrastructure, automation, and team coordination.
 
 ---
 
 ## 💻 What I Do
 
-* 🏗️ **ERP & Business Systems**
-* 💻 **Software Development**
-* ⚙️ **System & Software Infrastructure**
-* 🔗 **API & System Integration**
-* 👥 **Project & Team Management**
-* 🤖 **AI & Automation**
-* 🗄️ **Database & Backend Systems**
-* 🚀 **Deployment & Troubleshooting**
+* 🏗️ ERP & Business Systems
+* 💻 Software Development
+* ⚙️ Software & IT Infrastructure
+* 🔗 API & System Integration
+* 👥 Project & Team Management
+* 🤖 AI & Automation
+* 🗄️ Database & Backend Systems
+* 🚀 Deployment & Troubleshooting
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
-`JavaScript` `Node.js` `Python` `PHP`
+### Languages & Frameworks
 
-**Frontend**
-`HTML` `CSS` `JavaScript` `EJS`
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,php" />
+</p>
 
-**Database**
-`MongoDB` `MySQL`
+### Frontend
 
-**Infrastructure & Tools**
-`Git` `GitHub` `Linux` `Cloud` `REST API`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ejs" />
+</p>
 
-**Currently Exploring**
-`AI Automation` `AI Agents` `Web3` `Algorithmic Trading`
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,gcp" />
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ai,web3" />
+</p>
+
+**AI Automation • AI Agents • Web3 • Algorithmic Trading**
 
 ---
 
-## 🎯 What I'm Interested In
+## 🎯 My Focus
 
-I'm particularly interested in building systems where **software, automation, and AI** can work together to make businesses more efficient.
+I'm interested in building systems where **software, automation, and AI** work together to make businesses more efficient.
 
 > **Manual → Digital → Automated → Autonomous**
 
-I enjoy turning ideas and business processes into **working, scalable, and maintainable technology**.
+I enjoy turning ideas and business processes into **practical, scalable, and maintainable technology**.
 
 ---
 
-## 📌 Let's Connect
+## 📊 GitHub Stats
 
-I'm always open to discussing **technology, software development, AI, automation, and interesting projects**.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Let's Build Something
+
+I'm always interested in **software development, AI, automation, ERP, system architecture, and interesting technology projects.**
 
 ⭐ Feel free to explore my repositories and see what I'm building.
+
+<br>
+
+> **Better systems. Smoother processes. A smarter tomorrow.**
