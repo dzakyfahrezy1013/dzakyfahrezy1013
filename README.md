@@ -67,15 +67,6 @@ I enjoy turning ideas and business processes into **practical, scalable, and mai
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Let's Build Something
 
 I'm always interested in **software development, AI, automation, ERP, system architecture, and interesting technology projects.**
